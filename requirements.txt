@@ -188,7 +188,7 @@ reportlab==3.4.0
 requests==2.21.0
 requests-unixsocket==0.1.5
 resampy==0.2.1
-rsa==3.4.2
+rsa==4.1
 ruamel.yaml==0.15.81
 s3transfer==0.1.13
 scikit-image==0.14.1
